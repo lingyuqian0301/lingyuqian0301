@@ -9,7 +9,7 @@ SKILL:C++,PHP,C,JS TOOLS:VISUAL STUDIO CODE SOFTSKILL:COMMUNICATION SKILL
 * 🌍  I'm based in SELANGOR
 * ✉️  You can contact me at [000yuqian@gmail.com](mailto:000yuqian@gmail.com)
 * 🧠  I'm learning computer science
-* ⚡  In my Year 1 e-portfolio as a Computer Science student at Universiti Teknologi Malaysia, I showcase a proficiency in programming languages like c++ and c, emphasizing problem-solving and algorithmic thinking. Theoretical subjects, including algorithms, data structures, and discrete mathematics, form the foundation of my conceptual knowledge. I offer insights into computer organization, highlighting the interaction between hardware and software, and demonstrate an understanding of software engineering principles and the development life cycle. Through active participation in collaborative projects, I've honed teamwork and communication skills. This e-portfolio encapsulates my Year 1 achievements and sets the stage for further exploration and specialization in the dynamic field of computer science.
+* ⚡  In my Year 1 e-portfolio as a Computer Science student at Universiti Teknologi Malaysia, I showcase a proficiency in programming languages like Python and Java, emphasizing problem-solving and algorithmic thinking. Theoretical subjects, including algorithms, data structures, and discrete mathematics, form the foundation of my conceptual knowledge. I offer insights into computer organization, highlighting the interaction between hardware and software, and demonstrate an understanding of software engineering principles and the development life cycle. Through active participation in collaborative projects, I've honed teamwork and communication skills. This e-portfolio encapsulates my Year 1 achievements and sets the stage for further exploration and specialization in the dynamic field of computer science.
 
 ### Skills
 
@@ -30,9 +30,3 @@ SKILL:C++,PHP,C,JS TOOLS:VISUAL STUDIO CODE SOFTSKILL:COMMUNICATION SKILL
 <a href="http://www.github.com/lingyuqian0301"><img src="https://github-readme-stats.vercel.app/api?username=lingyuqian0301&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lingyuqian0301's GitHub stats" /></a>
 
 <a href="http://www.github.com/lingyuqian0301"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lingyuqian0301&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/lingyuqian0301"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lingyuqian0301&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/lingyuqian0301"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lingyuqian0301&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/lingyuqian0301" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingyuqian0301&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
