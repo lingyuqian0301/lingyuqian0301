@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is LING YU QIAN
 ====================================================================================================================================
 
-YEAR 1 CS student at UTM
+ CS student at UTM
 ------------------------
 
 SKILL:C++,PHP,C,JS TOOLS:VISUAL STUDIO CODE SOFTSKILL:COMMUNICATION SKILL
@@ -9,7 +9,7 @@ SKILL:C++,PHP,C,JS TOOLS:VISUAL STUDIO CODE SOFTSKILL:COMMUNICATION SKILL
 * 🌍  I'm based in SELANGOR
 * ✉️  You can contact me at [000yuqian@gmail.com](mailto:000yuqian@gmail.com)
 * 🧠  I'm learning computer science
-* ⚡  In my Year 1 e-portfolio as a Computer Science student at Universiti Teknologi Malaysia, I showcase a proficiency in programming languages like Python and Java, emphasizing problem-solving and algorithmic thinking. Theoretical subjects, including algorithms, data structures, and discrete mathematics, form the foundation of my conceptual knowledge. I offer insights into computer organization, highlighting the interaction between hardware and software, and demonstrate an understanding of software engineering principles and the development life cycle. Through active participation in collaborative projects, I've honed teamwork and communication skills. This e-portfolio encapsulates my Year 1 achievements and sets the stage for further exploration and specialization in the dynamic field of computer science.
+* ⚡  In my e-portfolio as a Computer Science student at Universiti Teknologi Malaysia, I showcase a proficiency in programming languages like Python and Java, emphasizing problem-solving and algorithmic thinking. Theoretical subjects, including algorithms, data structures, and discrete mathematics, form the foundation of my conceptual knowledge. I offer insights into computer organization, highlighting the interaction between hardware and software, and demonstrate an understanding of software engineering principles and the development life cycle. Through active participation in collaborative projects, I've honed teamwork and communication skills. This e-portfolio encapsulates my Year 1 achievements and sets the stage for further exploration and specialization in the dynamic field of computer science.
 
 ### Skills
 
