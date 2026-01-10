@@ -30,7 +30,7 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 #### **AI-Driven Insurance Management Platform**
 * **Second Runner-Up** at JomHack Varsity Challenge 2025.
 * Developed using **React 19 (Next.js 15)** and **Django RESTful APIs**.
-* 
+
 #### **LLAMA 3.2B Fine-Tuning on AWS**
 * Fine-tuned Meta’s model using **LORA optimization** techniques on **AWS SageMaker**.
 * Created distilled datasets with multi-step reasoning prompts using **Hugging Face** tools and **AWS Party Rock**.
