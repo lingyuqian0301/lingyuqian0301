@@ -56,11 +56,5 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 
 
 ### Connect with me
-<p align="left"> 
-<a href="www.linkedin.com/in/ling-yu-qian-90514025b" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-</a>
-<a href="https://www.github.com/lingyuqian0301" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</a>
-</p>
+
+
