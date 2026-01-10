@@ -4,7 +4,7 @@
 
 I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Universiti Teknologi Malaysia**. I am a motivated and fast learner with a passion for applying classroom theory to impactful real-world projects, specifically in AI development, model optimization, and software engineering best practices.
 
-* 🌍 &nbsp; My Uni based in **Skudai, Johor**.
+* 🌍 &nbsp; My Uni based in **Skudai, Johor**.My hometown based in **Shah Alam,Selangor**
 * ✉️ &nbsp; Reach me at **000yuqian@gmail.com**.
 * 🧠 &nbsp; Currently focused on **Machine Learning, AI Development, and Data Science**.
 * 🏆 &nbsp; **Hackathon Lead**: Frequently serve as project lead, managing strategy and technical delivery under pressure.
