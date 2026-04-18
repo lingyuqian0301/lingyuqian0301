@@ -47,10 +47,12 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 
 * **1st Runner-Up**: Western Digital Hackathon 2024 (Firmware efficiency & Blockchain).
 * **1st Runner-Up**: Hackquest Hackathon USM 2024 (Refugee aid site using Next.js and Ethereum).
-* **2nd Runner-Up**: Skill Aggregator - Maschain DevMatch (AI skill recognition & Blockchain).
 * **1st Runner-Up**: Human Computer Interaction (HCI) Day (Refining UX and tech functionality).
+* **2nd Runner-Up**: Skill Aggregator - Maschain DevMatch (AI skill recognition & Blockchain).
+* **2st Runner-Up**: JomHack Varsity Challenge 2025
+* **Finalist**: Deriv AI Hackathon
 * **Core Member**: Google Developer Student Events (GDSE) UTM.
-
+* **Core Member**: Airost UTM.
 ---
 
 
