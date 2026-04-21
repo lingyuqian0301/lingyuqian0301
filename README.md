@@ -6,7 +6,7 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 
 * 🌍 &nbsp; My Uni based in **Skudai, Johor**.My hometown based in **Selangor**
 * ✉️ &nbsp; Reach me at **000yuqian@gmail.com**.
-* 🧠 &nbsp; Currently focused on **Machine Learning, AI Development, and Data Science**.
+* 🧠 &nbsp; Currently focused on **Machine Learning, AI Development,Data Engineering and Data Science**.
 * 🏆 &nbsp; **Hackathon Lead**: Frequently serve as project lead, managing strategy and technical delivery under pressure.
 
 ---
