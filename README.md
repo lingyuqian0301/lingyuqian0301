@@ -71,6 +71,6 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 
 ### Connect with me
 
-* 🌐 **Portfolio/Website:** [Insert your website link here, e.g., yuqian.github.io](https://web4me-ai-team.github.io/lingyuqian/)
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/ling-yu-qian-90514025b)
-* 🐙 **GitHub:** [github.com/your-username](https://github.com/lingyuqian0301)
+* 🌐 **Portfolio/Website:** [yuqian.github.io](https://web4me-ai-team.github.io/lingyuqian/)
+* 💼 **LinkedIn:** [linkedin.com/in/lingyuqian](www.linkedin.com/in/ling-yu-qian-90514025b)
+* 🐙 **GitHub:** [github.com/lingyuqian0301](https://github.com/lingyuqian0301)
