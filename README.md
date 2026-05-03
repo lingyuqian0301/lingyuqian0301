@@ -4,9 +4,9 @@
 
 I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Universiti Teknologi Malaysia**. I am a motivated and fast learner with a passion for applying classroom theory to impactful real-world projects, specifically in AI development, model optimization, and software engineering best practices.
 
-* 🌍 &nbsp; My Uni based in **Skudai, Johor**.My hometown based in **Selangor**
+* 🌍 &nbsp; My Uni based in **Skudai, Johor**. My hometown based in **Selangor**.
 * ✉️ &nbsp; Reach me at **000yuqian@gmail.com**.
-* 🧠 &nbsp; Currently focused on **Machine Learning, AI Development,Data Engineering and Data Science**.
+* 🧠 &nbsp; Currently focused on **Machine Learning, AI Development, Data Engineering, and Data Science**.
 * 🏆 &nbsp; **Hackathon Lead**: Frequently serve as project lead, managing strategy and technical delivery under pressure.
 
 ---
@@ -49,14 +49,24 @@ I am a Bachelor of Honors in Computer Science (Data Engineering) student at **Un
 * **1st Runner-Up**: Hackquest Hackathon USM 2024 (Refugee aid site using Next.js and Ethereum).
 * **1st Runner-Up**: Human Computer Interaction (HCI) Day (Refining UX and tech functionality).
 * **2nd Runner-Up**: Skill Aggregator - Maschain DevMatch (AI skill recognition & Blockchain).
-* **2st Runner-Up**: JomHack Varsity Challenge 2025
-* **Finalist**: Deriv AI Hackathon
+* **2nd Runner-Up**: JomHack Varsity Challenge 2025.
+* **Finalist**: Deriv AI Hackathon.
+* **Finalist**:Varsity Hackthon 2026 
 * **Core Member**: Google Developer Student Events (GDSE) UTM.
 * **Core Member**: Airost UTM.
+
 ---
 
+### 📜 Certifications & Badges
 
+* **Alteryx Designer Core Certification** – Alteryx *(Apr 2026 – Apr 2028)*
+* **AWS Academy Graduate (Cloud Data Pipeline Builder, Cloud Developing, Cloud Foundations)** – Amazon Web Services *(Apr 2026)*
+* **AWS re/Start Graduate** – Amazon Web Services *(Oct 2025)* | *Skills: AWS, Python*
+* **Introduction to Data Science** – Simplilearn *(Aug 2024)* | *Credential ID: UGFKSEKdMLb*
+* **GDSC Certified: Google Workspace Hackathon 2024** – Canvas Credentials *(Aug 2024)*
+* **Bridg3 Hackathon Certificate of Participation** – Growth Charger *(Jul 2024)* | *Skills: Blockchain, Front-End Design*
+* **Digital Skills: User Experience** – Accenture
+
+---
 
 ### Connect with me
-
-
